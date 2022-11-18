@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::-webkit-scrollbar{
+  @apply bg-transparent w-2
+}
+::-webkit-scrollbar-thumb{
+  @apply bg-white/40 rounded-full 
+}
+.sidebar::-webkit-scrollbar-thumb{
+  @apply bg-transparent
+}
+#profile::-webkit-scrollbar-thumb{
+  @apply rounded-none
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "name":"semua",
+    "selected":true
+  },
+  {
+    "name":"musik",
+    "selected":false
+
+  },
+  {
+    "name":"live",
+    "selected":false
+  },
+  {
+    "name":"vidio mix",
+    "selected":false
+  },
+  {
+    "name":"game",
+    "selected":false
+  },
+  {
+    "name":"hip hop",
+    "selected":false
+  },
+
+  {
+    "name":"acara memasak",
+    "selected":false
+  },
+  {
+    "name":"memasak",
+    "selected":false
+  },
+  {
+    "name":"game petualangan aksi",
+    "selected":false
+  },
+  {
+    "name":"kartun",
+    "selected":false
+  },
+  {
+    "name":"kerajinan",
+    "selected":false
+  },
+  {
+    "name":"sepak bola",
+    "selected":false
+  },
+  {
+    "name":"alam",
+    "selected":false
+  },
+  {
+    "name":"hewan peliharaan",
+    "selected":false
+  },
+  {
+    "name":"baru di upload",
+    "selected":false
+  },
+  {
+    "name":"baru untuk anda",
+    "selected":false
+  }
+]
